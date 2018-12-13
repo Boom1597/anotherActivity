@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">thirdactivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="Activity_A">Activity A</string>
+	<string name="Activity_B">Activity B</string>
+	<string name="Activity_C">Activity C</string>
+	<string name="Start_A">Start A</string>
+	<string name="Start_B">Start B</string>
+	<string name="Start_C">Start C</string>
+	<string name="Finish_A">Finish A</string>
+	<string name="Finish_B">Finish B</string>
+	<string name="Finish_C">Finish C</string>
+	<string name="Dialog">Dialog</string>
+	<string name="Life">Lifecycle Method List </string>
+	<string name="Status">Activity Status</string>
+</resources>
